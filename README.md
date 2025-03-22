@@ -6,3 +6,4 @@ Language used in this project are html,css and javascript.
 You can submit this as your smester project.
 we use basic concepts of javascript to solve this puzzle.
 we have implemented basically javascript core concepts to implement this game.
+responsive work on all platforms.
